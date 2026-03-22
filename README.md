@@ -1,0 +1,1 @@
+The prblem statement comprises of designing a fixed wing STOL aircraft with certain targets as mentioned in the problem statement document. It was a part of the Inter IIT Tech ,eet 14.0 held at IIT Patna. This solution secured a Bronze Medal.
